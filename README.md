@@ -1,2 +1,11 @@
-# pemprograman-komputer-5018211034
-repository dengan isi tugas kuliah dalam mata kuliah pemprograman komputer
+# Pemrograman Komputer
+Nama : Diva Muhamad Rahman
+NRP : 5018211034
+Kelas : Pemrograman Komputer
+## Repository
+Repository ini digunakan untuk pengumpulan tugas
+mata kuliah Pemrograman Komputer.
+## Assignment
+- Week 02- Variables, Data Types, and Operators
+- Week 03- Conditional Statements
+- Week 04- Loops
