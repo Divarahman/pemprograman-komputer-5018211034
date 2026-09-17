@@ -1,6 +1,6 @@
 # Pemrograman Komputer
-Nama : Diva Muhamad Rahman
-NRP : 5018211034
+Nama : Diva Muhamad Rahman |
+NRP : 5018211034 |
 Kelas : Pemrograman Komputer
 ## Repository
 Repository ini digunakan untuk pengumpulan tugas
